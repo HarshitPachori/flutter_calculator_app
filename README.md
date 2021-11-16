@@ -1,18 +1,43 @@
-🔗 **CALCULATOR APPLICATION**
+# **CALCULATOR APP**
 
-A new Flutter project.
+This is a `Calculator` test application 
+built using [Flutter](https://docs.flutter.dev/). Make sure to have flutter installed on your machine
+Clone the repo to your local machine
+Open an emulator and run flutter run within the cloned repo's folder.
+Try it out. As a test of the 
+framework, I wanted to implement something
+simple that would help me get the basics down.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## **RUNNING THE APP**
 
-A few resources to get you started if this is your first Flutter project:
+Follow the steps below to run the app 
+on your local machine. You'll need to
+make sure you have `flutter` installed
+and either Android Studio and XCode
+installed to test this application in
+a simulator. Let me know if you
+encounter issues with the 
+Calculator Screen. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Make sure to have `flutter` installed 
+   On your machine.
+       
+ 2. Clone the repo to your local machine.
+      
+ 3. Open an emulator and run `flutter run`
+    Within the cloned repo's folder.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_calculator_app
+ 4. Try it out.
+ 
+
+     ![Calculator Screen]( https://photos.app.goo.gl/D46NHZdkaNAQ8E6C7 ) 
+
+
+
+
+
+
+
+
 
