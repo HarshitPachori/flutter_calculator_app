@@ -31,7 +31,7 @@ Calculator Screen.
  4. Try it out.
  
 
-     ![Calculator Screen]( https://photos.app.goo.gl/D46NHZdkaNAQ8E6C7 ) 
+     ![Calculator Screen]( screenshot/1637940200540.png ) 
 
 
 
