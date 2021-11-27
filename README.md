@@ -30,8 +30,8 @@ Calculator Screen.
 
  4. Try it out.
  
-
-     ![Calculator Screen]( screenshot/1637940200540.png ) 
+       <img src="screenshot/1637940200540.png" width="200" >
+     
 
 
 
