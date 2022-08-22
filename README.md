@@ -30,8 +30,8 @@ Calculator Screen.
 
  4. Try it out.
  
-
-     ![Calculator Screen]( https://photos.app.goo.gl/D46NHZdkaNAQ8E6C7 ) 
+       <img src="screenshot/1637940200540.png" width="200" >
+     
 
 
 
